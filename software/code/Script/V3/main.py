@@ -394,7 +394,7 @@ def run_mode_09(connection):
         obd.commands.CALIBRATION_ID,
         obd.commands.CVN,
         obd.commands.ECU_NAME,
-        # Add more Mode 09 PIDs as needed
+        # Didin't add all the cmds from PID
     ]
     check_obd_values(connection, commands_mode_09)
 
