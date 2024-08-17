@@ -66,13 +66,22 @@ def select_pids(columns):
         return []
 
 
-def normalize_series(series):
-    """Normalize a pandas Series to a 0-1 range."""
-    return (series - series.min()) / (series.max() - series.min())
+def scale_pid_values(df, pid):
+    """Custom scaling function based on PID characteristics."""
+    if "RPM" in pid:
+        return df[pid] / 100  # Scale RPM by 1000
+    elif "SPEED" in pid:
+        return df[pid] / 10  # Scale speed by 10
+    elif "TEMP" in pid:
+        return df[pid]  # No scaling for temperature
+    elif "VOLTAGE" in pid:
+        return df[pid]  # No scaling for voltage
+    else:
+        return df[pid]  # Default: no scaling
 
 
 def plot_selected_pids(df, selected_pids):
-    """Plot the selected PIDs on a normalized graph and display a table of their values."""
+    """Plot the selected PIDs on a scaled graph and display a table of their values."""
     if not selected_pids:
         print("No PIDs selected. Exiting.")
         return
@@ -99,14 +108,13 @@ def plot_selected_pids(df, selected_pids):
             print(f"Error processing {pid}: {e}")
             df[pid] = 0  # Set to 0 if conversion fails
 
-        normalized_values = normalize_series(df[pid])  # Normalize for plotting
+        scaled_values = scale_pid_values(df, pid)  # Custom scaling based on PID characteristics
         traces.append(go.Scatter(
             x=df.index,
-            y=normalized_values,
+            y=scaled_values,
             mode='lines+markers',
             name=pid,
-            hovertemplate=f'%{{y:.2f}} {unit} (Original: %{{customdata:.2f}} {unit})<extra></extra>',
-            # Show original value and unit in hover text
+            hovertemplate=f'%{{customdata:.2f}} {unit}<extra></extra>',  # Show original value and unit in hover text
             customdata=df[pid]  # Store original data for use in hover text
         ))
 
@@ -123,7 +131,7 @@ def plot_selected_pids(df, selected_pids):
                            shared_xaxes=True,
                            vertical_spacing=0.1,
                            specs=[[{"type": "xy"}], [{"type": "table"}]],
-                           subplot_titles=('Selected PIDs Over Time (Normalized)', 'All Data Points'))
+                           subplot_titles=('Selected PIDs Over Time (Scaled)', 'All Data Points'))
 
     for trace in traces:
         fig.add_trace(trace, row=1, col=1)
