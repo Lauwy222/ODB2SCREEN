@@ -29,7 +29,7 @@ def save_readings_to_file(data, filename):
         file.write(data + '\n')
 
 
-def check_obd_values(connection, commands, duration=60):
+def check_obd_values(connection, commands, duration=120):
     """Check and log OBD-II values, excluding non-responsive PIDs."""
     start_time = time.time()
     responsive_commands = []
@@ -52,7 +52,7 @@ def check_obd_values(connection, commands, duration=60):
         # Update the command list to only include responsive commands
         commands = responsive_commands
 
-        time.sleep(1)  # Pause for 1 second between readings
+        time.sleep(0.5)  # Pause for 1 second between readings
 
 
 def boot_cycle_check(connection):
