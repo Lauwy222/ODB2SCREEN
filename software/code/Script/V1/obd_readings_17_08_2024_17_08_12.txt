@@ -1,0 +1,33 @@
+
+Timestamp: 2024-08-17 17:08:12.713555
+COOLANT_TEMP: 84 degree_Celsius
+MAF: 1.82 gps
+INTAKE_TEMP: 43 degree_Celsius
+ELM_VOLTAGE: 13.8 volt
+ENGINE_LOAD: 20.0 percent
+RPM: 762.5 revolutions_per_minute
+THROTTLE_POS: 0.7843137254901961 percent
+SPEED: 0.0 kilometer_per_hour
+LONG_FUEL_TRIM_1: 0.0 percent
+
+Timestamp: 2024-08-17 17:08:14.827313
+COOLANT_TEMP: 84 degree_Celsius
+MAF: 1.83 gps
+INTAKE_TEMP: 43 degree_Celsius
+ELM_VOLTAGE: 13.8 volt
+ENGINE_LOAD: 20.0 percent
+RPM: 750.0 revolutions_per_minute
+THROTTLE_POS: 0.7843137254901961 percent
+SPEED: 0.0 kilometer_per_hour
+LONG_FUEL_TRIM_1: 0.0 percent
+
+Timestamp: 2024-08-17 17:08:16.819248
+COOLANT_TEMP: 85 degree_Celsius
+MAF: 1.83 gps
+INTAKE_TEMP: 43 degree_Celsius
+ELM_VOLTAGE: 13.8 volt
+ENGINE_LOAD: 20.0 percent
+RPM: 750.0 revolutions_per_minute
+THROTTLE_POS: 0.7843137254901961 percent
+SPEED: 0.0 kilometer_per_hour
+LONG_FUEL_TRIM_1: 0.0 percent

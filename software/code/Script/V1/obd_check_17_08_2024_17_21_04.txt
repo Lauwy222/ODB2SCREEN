@@ -1,0 +1,55 @@
+
+Timestamp: 2024-08-17 17:21:04.802636
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x0000019A7D372450>
+FREEZE_DTC: No Data
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.215686274509803 percent
+COOLANT_TEMP: 91 degree_Celsius
+SHORT_FUEL_TRIM_1: 0.78125 percent
+LONG_FUEL_TRIM_1: 2.34375 percent
+SHORT_FUEL_TRIM_2: No Data
+LONG_FUEL_TRIM_2: No Data
+FUEL_PRESSURE: No Data
+INTAKE_PRESSURE: No Data
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 5.0 degree
+INTAKE_TEMP: 60 degree_Celsius
+MAF: 1.76 gps
+THROTTLE_POS: 0.7843137254901961 percent
+AIR_STATUS: No Data
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.06 volt
+O2_B1S2: 0.07 volt
+O2_B1S3: No Data
+O2_B1S4: No Data
+O2_B2S1: No Data
+O2_B2S2: No Data
+O2_B2S3: No Data
+O2_B2S4: No Data
+OBD_COMPLIANCE: EOBD (Europe)
+O2_SENSORS_ALT: No Data
+AUX_INPUT_STATUS: No Data
+RUN_TIME: No Data
+PIDS_B: 10000000000000000000000000000000
+
+Timestamp: 2024-08-17 17:21:10.612246
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x0000019A7D372C90>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 92 degree_Celsius
+SHORT_FUEL_TRIM_1: 0.78125 percent
+LONG_FUEL_TRIM_1: 2.34375 percent
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 5.0 degree
+INTAKE_TEMP: 60 degree_Celsius
+MAF: 1.75 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.03 volt
+O2_B1S2: 0.04 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
