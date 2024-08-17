@@ -24,7 +24,7 @@ def read_data_from_txt(file_path):
                 current_data = {"Timestamp": line.split("Timestamp:")[1].strip()}
             else:
                 match = re.match(r"(.+?):\s(.+)", line)
-                if match:  # Fixed the unmatched parenthesis
+                if match:
                     pid, value = match.groups()
                     pid = pid.replace("_", " ").strip()  # Replace underscores with spaces
                     current_data[pid] = value.strip()
@@ -66,8 +66,13 @@ def select_pids(columns):
         return []
 
 
+def normalize_series(series):
+    """Normalize a pandas Series to a 0-1 range."""
+    return (series - series.min()) / (series.max() - series.min())
+
+
 def plot_selected_pids(df, selected_pids):
-    """Plot the selected PIDs on a graph and display a table of their values."""
+    """Plot the selected PIDs on a normalized graph and display a table of their values."""
     if not selected_pids:
         print("No PIDs selected. Exiting.")
         return
@@ -94,12 +99,15 @@ def plot_selected_pids(df, selected_pids):
             print(f"Error processing {pid}: {e}")
             df[pid] = 0  # Set to 0 if conversion fails
 
+        normalized_values = normalize_series(df[pid])  # Normalize for plotting
         traces.append(go.Scatter(
             x=df.index,
-            y=df[pid],
+            y=normalized_values,
             mode='lines+markers',
             name=pid,
-            hovertemplate=f'%{{y:.2f}} {unit}<extra></extra>'  # Customize hover text to show value and unit only
+            hovertemplate=f'%{{y:.2f}} {unit} (Original: %{{customdata:.2f}} {unit})<extra></extra>',
+            # Show original value and unit in hover text
+            customdata=df[pid]  # Store original data for use in hover text
         ))
 
     # Create a table with all the rows
@@ -115,7 +123,7 @@ def plot_selected_pids(df, selected_pids):
                            shared_xaxes=True,
                            vertical_spacing=0.1,
                            specs=[[{"type": "xy"}], [{"type": "table"}]],
-                           subplot_titles=('Selected PIDs Over Time', 'All Data Points'))
+                           subplot_titles=('Selected PIDs Over Time (Normalized)', 'All Data Points'))
 
     for trace in traces:
         fig.add_trace(trace, row=1, col=1)
