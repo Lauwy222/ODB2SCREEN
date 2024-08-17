@@ -1,0 +1,223 @@
+No Diagnostic Trouble Codes found.
+
+Timestamp: 2024-08-17 17:43:33.142164
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F746F5D690>
+FREEZE_DTC: No Data
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.215686274509803 percent
+COOLANT_TEMP: 92 degree_Celsius
+SHORT_FUEL_TRIM_1: -1.5625 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+SHORT_FUEL_TRIM_2: No Data
+LONG_FUEL_TRIM_2: No Data
+FUEL_PRESSURE: No Data
+INTAKE_PRESSURE: No Data
+RPM: 737.5 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 4.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.75 gps
+THROTTLE_POS: 0.7843137254901961 percent
+AIR_STATUS: No Data
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.55 volt
+O2_B1S2: 0.08 volt
+O2_B1S3: No Data
+O2_B1S4: No Data
+O2_B2S1: No Data
+O2_B2S2: No Data
+O2_B2S3: No Data
+O2_B2S4: No Data
+OBD_COMPLIANCE: EOBD (Europe)
+O2_SENSORS_ALT: No Data
+AUX_INPUT_STATUS: No Data
+RUN_TIME: No Data
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+FUEL_RAIL_PRESSURE_VAC: No Data
+FUEL_RAIL_PRESSURE_DIRECT: No Data
+O2_S1_WR_VOLTAGE: No Data
+O2_S2_WR_VOLTAGE: No Data
+O2_S3_WR_VOLTAGE: No Data
+O2_S4_WR_VOLTAGE: No Data
+O2_S5_WR_VOLTAGE: No Data
+O2_S6_WR_VOLTAGE: No Data
+O2_S7_WR_VOLTAGE: No Data
+O2_S8_WR_VOLTAGE: No Data
+COMMANDED_EGR: No Data
+EGR_ERROR: No Data
+EVAPORATIVE_PURGE: No Data
+FUEL_LEVEL: No Data
+WARMUPS_SINCE_DTC_CLEAR: No Data
+DISTANCE_SINCE_DTC_CLEAR: No Data
+EVAP_VAPOR_PRESSURE: No Data
+BAROMETRIC_PRESSURE: No Data
+O2_S1_WR_CURRENT: No Data
+O2_S2_WR_CURRENT: No Data
+O2_S3_WR_CURRENT: No Data
+O2_S4_WR_CURRENT: No Data
+O2_S5_WR_CURRENT: No Data
+O2_S6_WR_CURRENT: No Data
+O2_S7_WR_CURRENT: No Data
+O2_S8_WR_CURRENT: No Data
+CATALYST_TEMP_B1S1: No Data
+CATALYST_TEMP_B2S1: No Data
+CATALYST_TEMP_B1S2: No Data
+CATALYST_TEMP_B2S2: No Data
+PIDS_C: No Data
+STATUS_DRIVE_CYCLE: No Data
+CONTROL_MODULE_VOLTAGE: No Data
+ABSOLUTE_LOAD: No Data
+COMMANDED_EQUIV_RATIO: No Data
+RELATIVE_THROTTLE_POS: No Data
+AMBIANT_AIR_TEMP: No Data
+THROTTLE_POS_B: No Data
+THROTTLE_POS_C: No Data
+ACCELERATOR_POS_D: No Data
+ACCELERATOR_POS_E: No Data
+ACCELERATOR_POS_F: No Data
+THROTTLE_ACTUATOR: No Data
+RUN_TIME_MIL: No Data
+TIME_SINCE_DTC_CLEARED: No Data
+MAX_MAF: No Data
+FUEL_TYPE: No Data
+ETHANOL_PERCENT: No Data
+EVAP_VAPOR_PRESSURE_ABS: No Data
+EVAP_VAPOR_PRESSURE_ALT: No Data
+SHORT_O2_TRIM_B1: No Data
+LONG_O2_TRIM_B1: No Data
+SHORT_O2_TRIM_B2: No Data
+LONG_O2_TRIM_B2: No Data
+FUEL_RAIL_PRESSURE_ABS: No Data
+RELATIVE_ACCEL_POS: No Data
+HYBRID_BATTERY_REMAINING: No Data
+OIL_TEMP: No Data
+FUEL_INJECT_TIMING: No Data
+FUEL_RATE: No Data
+
+Timestamp: 2024-08-17 17:43:39.052293
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715EB50>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 93 degree_Celsius
+SHORT_FUEL_TRIM_1: -2.34375 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 6.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.78 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.05 volt
+O2_B1S2: 0.05 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+
+Timestamp: 2024-08-17 17:43:44.857096
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715E8D0>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 93 degree_Celsius
+SHORT_FUEL_TRIM_1: -1.5625 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 6.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.77 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.03 volt
+O2_B1S2: 0.04 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+
+Timestamp: 2024-08-17 17:43:50.706997
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715EB50>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 94 degree_Celsius
+SHORT_FUEL_TRIM_1: 0.0 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 6.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.78 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.02 volt
+O2_B1S2: 0.04 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+
+Timestamp: 2024-08-17 17:43:56.561179
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715EBD0>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 94 degree_Celsius
+SHORT_FUEL_TRIM_1: 0.0 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 737.5 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 6.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.77 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.02 volt
+O2_B1S2: 0.04 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+
+Timestamp: 2024-08-17 17:44:02.412433
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715EB10>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 19.607843137254903 percent
+COOLANT_TEMP: 94 degree_Celsius
+SHORT_FUEL_TRIM_1: 0.0 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 762.5 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 6.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.87 gps
+THROTTLE_POS: 0.39215686274509803 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.13 volt
+O2_B1S2: 0.03 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
+
+Timestamp: 2024-08-17 17:44:08.306342
+PIDS_A: 10111110000111111011100000010001
+STATUS: <obd.OBDResponse.Status object at 0x000001F74715EBD0>
+FUEL_STATUS: ('Closed loop, using oxygen sensor feedback to determine fuel mix', '')
+ENGINE_LOAD: 21.176470588235293 percent
+COOLANT_TEMP: 95 degree_Celsius
+SHORT_FUEL_TRIM_1: -2.34375 percent
+LONG_FUEL_TRIM_1: 6.25 percent
+RPM: 750.0 revolutions_per_minute
+SPEED: 0.0 kilometer_per_hour
+TIMING_ADVANCE: 5.0 degree
+INTAKE_TEMP: 74 degree_Celsius
+MAF: 1.95 gps
+THROTTLE_POS: 0.7843137254901961 percent
+O2_SENSORS: ((), (False, False, False, False), (False, False, True, True))
+O2_B1S1: 0.06 volt
+O2_B1S2: 0.05 volt
+OBD_COMPLIANCE: EOBD (Europe)
+PIDS_B: 10000000000000000000000000000000
+DISTANCE_W_MIL: 0.0 kilometer
