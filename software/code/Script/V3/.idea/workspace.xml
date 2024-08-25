@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2751151d-fcb0-4906-b781-a8d2bea2c674" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/Reader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reader/obd_check_17_08_2024_18_04_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/V1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_check_17_08_2024_17_12_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_check_17_08_2024_17_21_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_12_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_13_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_15_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_16_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_18_48.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_20_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_15_21_38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_16_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_19_18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_55_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_57_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_58_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_16_58_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_17_03_24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1/obd_readings_17_08_2024_17_08_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/V1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V2/obd_check_17_08_2024_17_26_47.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/V1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_17_43_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_17_45_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_17_46_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_17_59_49.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_18_02_17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_18_04_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_check_17_08_2024_18_07_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/33_gauge/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/34_gauge/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/0_static_preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/13TouchFile.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/14ShowFile.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/22_Config.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/33_gauge.icl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/34_gauge.icl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWIN_SET/iconbank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWprj.hmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/DWprj.tft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/TFT/0_static_preview.png.tft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V1/TFT/coords_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/V2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/63.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/79.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/85.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/00_gauge/99.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/00_gauge.icl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/0_DWIN_ASC.HZK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/0_iconbank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/0_static_preview_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/13TouchFile.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/14ShowFile.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWIN_SET/22_Config.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWprj.hmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/DWprj.tft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/TFT/0_static_preview_1.png.tft" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../V2/TFT/coords_13.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2kmonp2bNd3Lwbk094NnsK6DEvN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lauwy/Documents/ODB2SCREEN/software/code/Script/Reader&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="V1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2751151d-fcb0-4906-b781-a8d2bea2c674" name="Changes" comment="" />
+      <created>1723898282850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723898282850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

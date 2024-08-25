@@ -4,7 +4,7 @@ from datetime import datetime
 from obd import OBDStatus
 
 # Replace 'COM8' with your specific COM port
-port = 'COM8'
+port = 'COM9'
 
 # Establish a connection to the OBD-II adapter
 connection = obd.OBD(port)
